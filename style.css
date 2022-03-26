@@ -3,4 +3,29 @@ body {
     font-size: x-large;
     font-family: serif;
     color: chartreuse;
-  }
+}
+h1 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    color: chartreuse;
+    font-style: italic;
+}
+
+ul {
+    color: white;
+    font-style: italic;
+}
+img {
+    display: block;
+    float: right;
+    position: relative; top: -300px
+}
